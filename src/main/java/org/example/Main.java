@@ -17,7 +17,7 @@ public class Main {
         System.out.println("Press enter to continue");
         input.nextLine();
 
-
+        System.out.println("-----------------------------");
         System.out.println("Hello");
 
     }
